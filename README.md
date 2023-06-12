@@ -10,11 +10,15 @@ A fun webpage that tells you which coding language you should learn
 * CSS
 
 ## Description 
+A fun webpage that suggest which coding language you should learn based on the following random question answered. 
 
 ## Setup Installation 
+go to this link https://github.com/daisyorozcob/Student-Survery
+go to terminal/gitbash and clone
+open see what language you should learn
 
 ## Known Bugs
-
+Does not return anything
 
 ## License
 MIT License
