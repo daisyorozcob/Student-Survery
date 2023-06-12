@@ -1,12 +1,19 @@
 # Student-Survery
 
-## By Daisy Orozco Bautista
+### By Daisy Orozco Bautista
+A fun webpage that tells you which coding language you should learn
 
 
 ## Technology Used 
 * Java Script
 * HTML
 * CSS
+
+## Description 
+
+## Setup Installation 
+
+## Known Bugs
 
 
 ## License
